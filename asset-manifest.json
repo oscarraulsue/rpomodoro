@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/rpomodoro/static/css/main.e59a15c9.chunk.css",
+    "main.js": "/rpomodoro/static/js/main.42e1b0b6.chunk.js",
+    "main.js.map": "/rpomodoro/static/js/main.42e1b0b6.chunk.js.map",
+    "runtime-main.js": "/rpomodoro/static/js/runtime-main.970f019b.js",
+    "runtime-main.js.map": "/rpomodoro/static/js/runtime-main.970f019b.js.map",
+    "static/js/2.0c4eb5a1.chunk.js": "/rpomodoro/static/js/2.0c4eb5a1.chunk.js",
+    "static/js/2.0c4eb5a1.chunk.js.map": "/rpomodoro/static/js/2.0c4eb5a1.chunk.js.map",
+    "index.html": "/rpomodoro/index.html",
+    "static/css/main.e59a15c9.chunk.css.map": "/rpomodoro/static/css/main.e59a15c9.chunk.css.map",
+    "static/js/2.0c4eb5a1.chunk.js.LICENSE.txt": "/rpomodoro/static/js/2.0c4eb5a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.970f019b.js",
+    "static/js/2.0c4eb5a1.chunk.js",
+    "static/css/main.e59a15c9.chunk.css",
+    "static/js/main.42e1b0b6.chunk.js"
+  ]
+}
