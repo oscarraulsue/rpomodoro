@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react'
 import { IoIosArrowDown, IoIosArrowUp } from "react-icons/io";
-// import {VscDebugRestart} from "react-icons/vsc";
-// import {ImPlay2} from "react-icons/im";
-// import {CgPlayStopO} from "react-icons/cg";
+import {VscDebugRestart} from "react-icons/vsc";
+import {ImPlay2} from "react-icons/im";
+import {CgPlayStopO} from "react-icons/cg";
 
 
 
@@ -138,20 +138,18 @@ export const App = () => {
       <div className="timer-control">
       <button id="start_stop"
       onClick={play}
-      > P
-      {/* <ImPlay2/> */}
+      >
+      <ImPlay2/>
       </button>
       <button id = "stop"
       onClick={stop}
       >
-    S
-      {/* <CgPlayStopO/> */}
+      <CgPlayStopO/>
       </button>
    <button id="reset"
    onClick={reload}
    >
-    R
-   {/* <VscDebugRestart/> */}
+   <VscDebugRestart/>
    </button>
    </div>
    </div>
